@@ -1,0 +1,17 @@
+
+h1{
+    color: #2a82a5;
+}
+
+.text-area{
+    height: 200px;
+}
+
+input{
+    width: 100%;
+    margin: 10px 0px;
+    border-radius: 5px;
+    background-color: ghostwhite;    
+    padding: 3px 5px;
+    color: black;
+}
