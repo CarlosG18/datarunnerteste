@@ -8,7 +8,7 @@ function Form(){
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        fetch('http://CarlosG18.pythonanywhere.com/treino/receber_dados', {
+        fetch('https://CarlosG18.pythonanywhere.com/treino/receber_dados', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
